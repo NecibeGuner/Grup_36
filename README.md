@@ -1,1 +1,1 @@
-# Grup_36
+# Klasörler Master da yer almaktadır.
