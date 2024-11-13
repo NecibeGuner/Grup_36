@@ -1,0 +1,975 @@
+1. resim açıklaması: Melanoma in situ 12 dermoscopy
+2. resim açıklaması: Large melanoma in situ
+3. resim açıklaması: Melanoma in situ 12 macro
+4. resim açıklaması: A superficial malignant melanoma - irregular and notched margin, variable and irregular pigmentation in an itchy and enlarging pigmented lesion
+5. resim açıklaması: Acral melanoma
+6. resim açıklaması: A nodule arrising within an acral lentiginous melanoma as it enters a vertical growth phase
+7. resim açıklaması: Melanoma in situ on the toe - acral lentiginous melanoma type, (ALM-patient1)
+8. resim açıklaması: Dermoscopy of an acral melanoma in situ on the toe, (ALM-patient1)
+9. resim açıklaması: Dermoscopy of an acral melanoma in situ on the toe, (ALM-patient1)
+10. resim açıklaması: Brown-black irregularly-marginated pigment with extension into the cuticle - a subungual melanoma
+11. resim açıklaması: Complete destruction of the nail plate with deep pigmentation into the digit pulp and the proximal nail fold - a subungal melanoma, (ALM-patient2)
+12. resim açıklaması: Irregular pigmentation of the end of the great toe and destruction of the nail plate due to a subungual melanoma, (ALM-patient2)
+13. resim açıklaması: Complete destruction of the nail plate with deep pigmentation into the digit pulp and the proximal nail fold. - a subungual melanoma, (ALM-patient2)
+14. resim açıklaması: Complete destruction of the nail plate with pigmentation extending into the digit pulp and the proximal nail fold - a subungual melanoma, (ALM-patient2)
+15. resim açıklaması: Irregular pigmentation of the hyponychium due to a subungual melanoma, (ALM-patient2)
+16. resim açıklaması: Dermoscopic image of a subungual melanoma of the great toenail - 0.5 mm in depth, (ALM-patient2)
+17. resim açıklaması: Dermoscopic image of a subungual melanoma of the great toenail - 0.5 mm in depth, (ALM-patient2)
+18. resim açıklaması: Dermoscopic image of a subungual melanoma of the great toenail - 0.5 mm in depth, (ALM-patient2)
+19. resim açıklaması: Pigmentation proximal to the nail fold due to a subungual melanoma, (ALM-patient2)
+20. resim açıklaması: Melanoma of the nail unit - dermoscopy shows pigmentation of the proximal nail fold (Hutchinson's sign), (ALM-patient2)
+21. resim açıklaması: Dermoscopy of an acral lentiginous melanoma showing variable pigmentation and areas of regression
+22. resim açıklaması: Irregular pigmented longitudinal bands in melanoma of the nail unit
+23. resim açıklaması: Subungual melanoma
+24. resim açıklaması: Subungual melanoma
+25. resim açıklaması: Subungual melanoma
+26. resim açıklaması: Subungual melanoma
+27. resim açıklaması: Subungual melanoma
+28. resim açıklaması: Acral lentiginous melanoma
+29. resim açıklaması: Acral lentiginous melanoma
+30. resim açıklaması: Amelanotic lentigo maligna melanoma
+31. resim açıklaması: An irregularly marginated red lesion on the arm - an amelanotic melanoma, (AM-patient1)
+32. resim açıklaması: Dermoscopy of an amelanolic melanoma showing non-specific blood vessels, structureless areas, multiple colours and only occassional brown dots, (AM-patient1)
+33. resim açıklaması: An irregularly pigmented lesion with a white nodule at the apex - an amelanotic melanoma, (AM-patient2)
+34. resim açıklaması: Irregular polymorphous vessels and a white structureless area in the apex of an amelanotic melanoma, (AM-patient2)
+35. resim açıklaması: Polymorphous vessels and a pink-grey structureless area - an amelanotic melanoma, (AM-patient2)
+36. resim açıklaması: A pink-brown macule with a white central area - an amemanotic melanoma, (AM-patient3)
+37. resim açıklaması: Dermoscopy showing grey-brown clods and polymorphous vessels - an amelanotic melanoma in situ, (AM-patient3)
+38. resim açıklaması: Dermoscopy showing grey-brown clods and polymorphous vessels - an amelanotic melanoma in situ, (AM-patient3)
+39. resim açıklaması: Amelanotic subungal melanoma - a red lesion arising from the nail fold that has produced destruction of the nail plate
+40. resim açıklaması: Amelanotic melanoma
+41. resim açıklaması: Amelanotic melanoma
+42. resim açıklaması: Amelanotic melanoma arising within pigmented melanoma
+43. resim açıklaması: Amelanotic melanoma
+44. resim açıklaması: L arm melanoma? BCC?
+45. resim açıklaması: Melanoma of nail unit
+46. resim açıklaması: Superficial spreading melanoma in situ
+47. resim açıklaması: Amelanotic superficial spreading melanoma in situ
+48. resim açıklaması: Amelanotic melanoma 3mm
+49. resim açıklaması: Amelanotic melanoma, Breslow 3.2mm, CL IV dermoscopy
+50. resim açıklaması: Dermoscopic image of amelanotic melanoma 1
+51. resim açıklaması: Amelanotic nodular melanoma
+52. resim açıklaması: Dermoscopic image of amelanotic melanoma 2
+53. resim açıklaması: Macro image of amelanotic melanoma 2
+54. resim açıklaması: Amelanotic nodular melanoma
+55. resim açıklaması: Amelanotic melanoma dermoscopy
+56. resim açıklaması: Amelanotic melanoma of the nail unit
+57. resim açıklaması: Ungual melanoma
+58. resim açıklaması: 0.8 mm lentigo maligna melanoma
+59. resim açıklaması: Melanoma in situ, polarised dermoscopy view
+60. resim açıklaması: Melanoma in situ, nonpolarised dermoscopy view
+61. resim açıklaması: Desmoplastic melanoma
+62. resim açıklaması: Desmoplastic melanoma 2, macro
+63. resim açıklaması: Desmoplastic melanoma 2, dermoscopy
+64. resim açıklaması: Desmoplastic melanoma
+65. resim açıklaması: Desmoplastic melanoma, scalp
+66. resim açıklaması: Melanoma
+67. resim açıklaması: Eyelid melanoma
+68. resim açıklaması: Eyelid melanoma
+69. resim açıklaması: Eyelid melanoma
+70. resim açıklaması: Eyelid melanoma
+71. resim açıklaması: Eyelid melanoma
+72. resim açıklaması: Superficial spreading melanoma
+73. resim açıklaması: Melanoma with depigmentation
+74. resim açıklaması: Invasive melanoma dermoscopy, Breslow 0.4mm within a melanoma in situ, with associated naevus present
+75. resim açıklaması: Lentiginous melanoma
+76. resim açıklaması: Lentiginous melanoma
+77. resim açıklaması: Lentiginous melanoma
+78. resim açıklaması: Lentiginous melanoma
+79. resim açıklaması: Lentiginous melanoma
+80. resim açıklaması: Concentric circles (red arrows) seen in dermoscopy of lentigo maligna melanoma
+81. resim açıklaması: Lentigo maligna melanoma 0.8 mm
+82. resim açıklaması: Asymmetrical pigmented follicular openings in lentigo maligna melanoma
+83. resim açıklaması: Lentigo maligna melanoma 1.7 mm
+84. resim açıklaması: Lentigo maligna melanoma, Breslow 0.8 mm
+85. resim açıklaması: Lentigo maligna melanoma, Breslow 0.8 mm
+86. resim açıklaması: Lentigo maligna melanoma, Breslow 0.8 mm
+87. resim açıklaması: Lentigo maligna melanoma, Breslow 0.8 mm
+88. resim açıklaması: Pseudonetwork, structureless areas, grey and concentric circles seen in dermoscopy of lentigo maligna melanoma
+89. resim açıklaması: Subungual melanoma
+90. resim açıklaması: Desmoplastic melanoma
+91. resim açıklaması: Desmoplastic melanoma
+92. resim açıklaması: Melanoma
+93. resim açıklaması: Melanoma in situ
+94. resim açıklaması: Acral lentiginous melanoma
+95. resim açıklaması: Subungual melanoma
+96. resim açıklaması: Lentigo maligna melanoma
+97. resim açıklaması: Amelanotic nodular melanoma
+98. resim açıklaması: Ulcerated nodular melanoma
+99. resim açıklaması: Nodular melanoma, Breslow 7.2 mm, nonpolarised dermoscopy view
+100. resim açıklaması: Melanoma dermoscopy
+101. resim açıklaması: Melanoma dermoscopy
+102. resim açıklaması: Melanoma dermoscopy
+103. resim açıklaması: Melanoma dermoscopy
+104. resim açıklaması: Nodular melanoma, Breslow 7.2 mm, showing changes in the 12 weeks prior to excision, polarised dermoscopy view
+105. resim açıklaması: Superficial spreading melanoma in 14-year-old
+106. resim açıklaması: Cutaneous melanoma
+107. resim açıklaması: Dermoscopy of superficial spreading melanoma in 18-year-old
+108. resim açıklaması: Nodular melanoma
+109. resim açıklaması: Melanoma dermoscopy
+110. resim açıklaması: Melanoma dermoscopy
+111. resim açıklaması: A banal-appearing lesion with irregular margin - an in situ melanoma
+112. resim açıklaması: An irregularly marginated, notched and irregularly pigmented lesion on the arm - an in situ melanoma
+113. resim açıklaması: An in situ melanoma on the ear lobe - note slight irregularity of margin
+114. resim açıklaması: An in situ melanoma showing irregularity of the pigment and margin
+115. resim açıklaması: A single banal-appearing doubtful lesion on the arm - histology showed melanoma in situ
+116. resim açıklaması: In situ melanoma on the upper back - note irregular edge and pigmentation variation, (MIS-patient2)
+117. resim açıklaması: Dermoscopy of melanoma in situ showing asymmetric structure, irregular network and structureless areas, (MIS-patient2)
+118. resim açıklaması: Dermoscopy of melanoma in situ showing asymmetric structure, eccentric structureless areas and colour variation, (MIS-patient2)
+119. resim açıklaması: A pigmented lesion on the trunk with irregularity of colours; histology showed an in situ melanoma, (MIS-patient3)
+120. resim açıklaması: Dermscopy of an irregularly pigmented lesion with featureless pale areas and a blue-grey veil: histology showed an in situ melanoma, (MIS-patient3)
+121. resim açıklaması: Dermscopy of an irregularly pigmented lesion with featureless pale areas and a blue-grey veil: histology showed an in situ melanoma, (MIS-patient3)
+122. resim açıklaması: Melanoma-associated leukoderma
+123. resim açıklaması: An irregularly pigmented band of melanonychia with nail plate dystrophy - a nail unit melanoma
+124. resim açıklaması: An ulcerated amelanotic malignant melanoma of the index finger
+125. resim açıklaması: A dark pigmented band with nail plate splitting due to malignant melanoma of the nail unit
+126. resim açıklaması: Different pigmented lesion; melanoma in situ
+127. resim açıklaması: Subungual melanoma
+128. resim açıklaması: Nodular melanoma
+129. resim açıklaması: Superficial spreading melanoma
+130. resim açıklaması: Lentigo maligna melanoma
+131. resim açıklaması: Subcutaneous metastatic melanoma
+132. resim açıklaması: Cutaneous melanoma mestastases
+133. resim açıklaması: MELANOMA
+134. resim açıklaması: Metastatic melanoma dermoscopy
+135. resim açıklaması: Metastatic melanoma dermoscopy
+136. resim açıklaması: Metastatic melanoma dermoscopy
+137. resim açıklaması: Metastatic melanoma dermoscopy
+138. resim açıklaması: Metastatic melanoma dermoscopy
+139. resim açıklaması: Metastatic melanoma
+140. resim açıklaması: Metastatic melanoma
+141. resim açıklaması: Metastatic melanoma
+142. resim açıklaması: Metastatic melanoma
+143. resim açıklaması: Metastatic melanoma
+144. resim açıklaması: Metastatic melanoma
+145. resim açıklaması: In transit metastases from primary melanoma on foot
+146. resim açıklaması: Melanoma in situ 3 dermoscopy
+147. resim açıklaması: Melanoma in situ 3 macro
+148. resim açıklaması: Melanoma in situ 7 dermoscopy
+149. resim açıklaması: Melanoma in situ 7 macro
+150. resim açıklaması: Melanoma in situ 8 dermoscopy
+151. resim açıklaması: Melanoma in situ 8 macro
+152. resim açıklaması: Melanoma in situ 6 dermoscopy
+153. resim açıklaması: Melanoma in situ 6 macro
+154. resim açıklaması: Melanoma in situ 5 dermoscopy
+155. resim açıklaması: Melanoma in situ 5 macro
+156. resim açıklaması: Melanoma in situ 4 macro
+157. resim açıklaması: Melanoma in situ 2 dermoscopy
+158. resim açıklaması: Melanoma in situ 2 macro
+159. resim açıklaması: Melanoma in situ 1 dermoscopy
+160. resim açıklaması: Melanoma in situ 1 macro
+161. resim açıklaması: Melanoma in situ
+162. resim açıklaması: A multicoloured nodule on the mid-back: histology showed a mixed epitheliod and spindle cell melanoma, (MESCM-patient1)
+163. resim açıklaması: A multicoloured nodule on the back - histology showed a mixed epitheliod and spindle cell melanoma, (MESCM-patient1)
+164. resim açıklaması: A mixed epitheliod and spindle cell melanoma on the back - dermoscopy shows creamy white irregular lines, eccentric pink structureless areas and some polymorphous vessels, (MESCM-patient1)
+165. resim açıklaması: Metastatic melanoma
+166. resim açıklaması: A naevoid malignant melanoma on the right lower back, (NeM-patient1)
+167. resim açıklaması: A nodule of invasive naevoid melanoma arising in a superficial spreading melanoma, (NeM-patient1)
+168. resim açıklaması: Dermoscopy of a naevoid melanoma shows a blue-grey colour and a veil arising in a superficial spreading melanoma, (NeM-patient1)
+169. resim açıklaması: Subungual melanoma
+170. resim açıklaması: Melanoma in situ
+171. resim açıklaması: Nodular melanoma
+172. resim açıklaması: Nodular melanoma
+173. resim açıklaması: Nodular melanoma
+174. resim açıklaması: Nodular melanoma
+175. resim açıklaması: Nodular melanoma
+176. resim açıklaması: Nodular melanoma
+177. resim açıklaması: Nodular melanoma
+178. resim açıklaması: Dermoscopy of nodular melanoma Breslow 0.8 mm
+179. resim açıklaması: An ulcerated and crusted purple-red rapidly growing lesion on the back - histology showed a nodular melanoma, (NM-patient1)
+180. resim açıklaması: A changing unusual mole on the left shoulder - the 'ugly duckling' sign of melanoma, (NM-patient2)
+181. resim açıklaması: A nodular lesion with a medial satelllite lesion - the larger part is pink with dark brown and black speckles suggesting an amelanotic nodular malignant melanoma, (NM-patient2)
+182. resim açıklaması: Dermoscopy shows a pink lesion with atypical vessels and speckles of pigment peripherally - it was an 8.3 mm Breslow thickness malignant melanoma, (NM-patient2)
+183. resim açıklaması: Dermoscopy shows a pink lesion with atypical vessels and speckles of pigment peripherally - it was an 8.3 mm Breslow thickness malignant melanoma, (NM-patient2)
+184. resim açıklaması: Dermoscopy shows a pink lesion with atypical vessels and speckles of pigment peripherally - it was an 8.3 mm Breslow thickness malignant melanoma, (NM-patient2)
+185. resim açıklaması: Nodular melanoma, Breslow 2.5 mm, polarised dermoscopy view
+186. resim açıklaması: Nodular melanoma, Breslow 7.2 mm, showing changes in the 12 weeks prior to excision, nonpolarised dermoscopy view
+187. resim açıklaması: Nodular melanoma
+188. resim açıklaması: Nodular melanoma, Breslow 2.5 mm, nonpolarised dermoscopy view
+189. resim açıklaması: Nodular melanoma, Breslow 3.4 mm, nonpolarised dermoscopy view
+190. resim açıklaması: Nodular melanoma, Breslow 3.4 mm, polarised dermoscopy view
+191. resim açıklaması: A nodular melanoma arising within a superficial spreading melanoma
+192. resim açıklaması: Nodular melanoma 7.5 mm arising in lentigo maligna meldanoma
+193. resim açıklaması: Nonpolarised dermoscopy of amelanotic melanoma
+194. resim açıklaması: Unpolarised dermoscopy of melanoma
+195. resim açıklaması: Melanoma
+196. resim açıklaması: Polarised dermoscopy of amelanotic melanoma
+197. resim açıklaması: Polarised dermoscopy of melanoma
+198. resim açıklaması: Macro image of superficial melanoma 3
+199. resim açıklaması: Dermoscopic image of superficial spreading melanoma 3 (top right half of lesion)
+200. resim açıklaması: Dermoscopic image of superficial spreading melanoma 3 (bottom left half of lesion)
+201. resim açıklaması: Dermoscopy of a 6 mm thick nodular melanoma
+202. resim açıklaması: Satellite melanoma metastases
+203. resim açıklaması: Superficial spreading malignant melanoma on the scalp with recent development of nodular component
+204. resim açıklaması: Spindle cell melanoma
+205. resim açıklaması: Spindle cell melanoma
+206. resim açıklaması: Spindle cell melanoma
+207. resim açıklaması: Spindle cell melanoma
+208. resim açıklaması: Spindle cell melanoma
+209. resim açıklaması: Spitzoid melanoma in 10-year-old
+210. resim açıklaması: Macro image of superficial spreading melanoma 5
+211. resim açıklaması: Dermoscopic image of superficial spreading melanoma 5
+212. resim açıklaması: Superficial spreading melanoma, Breslow 0.3mm, nonpolarised dermoscopy view
+213. resim açıklaması: Superficial spreading melanoma, Breslow 0.3mm, polarised dermoscopy view
+214. resim açıklaması: Superficial spreading melanoma, Breslow 0.3 mm
+215. resim açıklaması: Superficial spreading melanoma
+216. resim açıklaması: Macro image of superficial spreading melanoma 7
+217. resim açıklaması: Dermoscopic image of superficial spreading melanoma 7
+218. resim açıklaması: Macro image of superficial spreading melanoma 8
+219. resim açıklaması: Dermoscopic image of superficial spreading melanoma 8
+220. resim açıklaması: Macro image of superficial spreading melanoma 9
+221. resim açıklaması: Dermoscopic image of superficial spreading melanoma 9
+222. resim açıklaması: Dermoscopic image of superficial spreading melanoma 6
+223. resim açıklaması: Macro image of superficial spreading melanoma 6
+224. resim açıklaması: A thin superficial spreading malignant melanoma - there is irregular variability of the pigmentation
+225. resim açıklaması: Superficial spreading malignant melanoma - an ugly duckling with an irregular edge and pigmentation, (SSM-patient1)
+226. resim açıklaması: Dermoscopy of a superficial spreading malignant melanoma - irregular edge and pigmentation and a blue-grey veil, (SSM-patient1)
+227. resim açıklaması: An irregularly marginated and pigmented ugly duckling - an 0.8 mm Breslow thickness superficial spreading malignant melanoma
+228. resim açıklaması: An irregular mole with variable colour and a white area representing regression of a superficial spreading malignant melanoma
+229. resim açıklaması: An irregularly marginated and pigmented lesion on the cheek - a superficial spreading malignant melanoma
+230. resim açıklaması: A melanoma on the cheek showing clinical evidence of central regression
+231. resim açıklaması: An ugly duckling pigmented lesion on the arm - a superficial spreading malignant melanoma
+232. resim açıklaması: Multiple areas of notching of the border of this ugly duckling lesion - a malignant melanoma, (SSM-patient2)
+233. resim açıklaması: Superficial spreading melanoma, Breslow 0.7mm, arising within a melanoma in situ, nonpolarised dermoscopy view
+234. resim açıklaması: Superficial spreading melanoma, Breslow 0.7mm, arising within a melanoma in situ, polarised dermoscopy view
+235. resim açıklaması: Multiple areas of notching of the border of this ugly duckling lesion - a malignant melanoma, (SSM-patient2)
+236. resim açıklaması: Irregular edge, asymmetry and irregular pigmentation of a melanoma on the back
+237. resim açıklaması: A nodular melanoma arising within a superficial spreading melanoma on the back, (SSM-patient3)
+238. resim açıklaması: An amelanotic nodular melanoma arising within a superficial spreading melanoma on the back, (SSM-patient3)
+239. resim açıklaması: An amelanotic nodular melanoma arising within a superficial spreading melanoma on the back, (SSM-patient3)
+240. resim açıklaması: An amelanotic nodular melanoma arising within a superficial spreading melanoma on the back, (SSM-patient3)
+241. resim açıklaması: An amelanotic nodular melanoma arising within a superficial spreading melanoma on the back, (SSM-patient3)
+242. resim açıklaması: A superficial spreading melanoma on the forearm, (SSM-patient4)
+243. resim açıklaması: A superficial spreading melanoma on the forearm, (SSM-patient4)
+244. resim açıklaması: Dermoscopic image of a superficial spreading melanoma on the forearm, (SSM-patient4)
+245. resim açıklaması: Superficial spreading melanoma, Breslow 0.4 mm, polarised dermoscopy view
+246. resim açıklaması: A melanoma in situ on the lower back, (SSM-patient5)
+247. resim açıklaması: A melanoma in situ on the lower back - dark brown and black in colour with irregularity and notching of the border, (SSM-patient5)
+248. resim açıklaması: A melanoma in situ on the lower back - dark brown and black in colour with irregularity and notching of the border, and an atypical pigment network, (SSM-patient5)
+249. resim açıklaması: A hypomelanotic macule on the mid back - excision showed a thin superficial spreading melanoma, (SSM-patient6)
+250. resim açıklaması: Close-up of a hypomelanotic thin superficial spreading melanoma on the back, (SSM-patient6)
+251. resim açıklaması: Dermoscopy of a hypomelanotic superficial spreading melanoma - irregular edge, atypical vessels and irregular grey dots, (SSM-patient6)
+252. resim açıklaması: Melanoma in situ on the left ankle, (SSM-patient7)
+253. resim açıklaması: A changing irregularly-pigmented lesion on the ankle - an in situ melanoma, (SSM-patient7)
+254. resim açıklaması: An in situ melanoma showing irregular pigmentation and border, and peripheral structureless areas , (SSM-patient7)
+255. resim açıklaması: A superficial spreading melanoma on the back in a patient with a personal history of melanoma, (SSM-patient8)
+256. resim açıklaması: Superficial spreading melanoma, Breslow 0.4 mm, nonpolarised dermoscopy view
+257. resim açıklaması: Superficial spreading melanoma, Breslow 0.4 mm, polarised dermoscopy view
+258. resim açıklaması: A superficial spreading melanoma on the back in a patient with a personal history of melanoma, (SSM-patient8)
+259. resim açıklaması: A superficial spreading melanoma on the back showing irregular grey dots, (SSM-patient8)
+260. resim açıklaması: An in situ melanoma on the right lateral calf with early invasion, (SSM-patient9)
+261. resim açıklaması: A thin invasive melanoma arising within an in situ lesion on the calf - note the irregular edge and notch, (SSM-patient9)
+262. resim açıklaması: A thin invasive melanoma - note the chaotic arrangement and irregular pigment net with blotches and grey-white area at 3 o'clock, (SSM-patient9)
+263. resim açıklaması: Superficial spreading melanoma, Breslow 0.5 mm, nonpolarised dermoscopy view
+264. resim açıklaması: Superficial spreading melanoma, Breslow 0.4 mm, polarised dermoscopy view
+265. resim açıklaması: Superficial spreading melanoma, Breslow 1.0 mm, nonpolarised dermoscopy view
+266. resim açıklaması: Superficial spreading melanoma, Breslow 0.25 mm, polarised dermoscopy view
+267. resim açıklaması: Superficial spreading melanoma, Breslow 0.5 mm, polarised dermoscopy view
+268. resim açıklaması: Superficial spreading melanoma, Breslow 0.6 mm, nonpolarised dermoscopy view
+269. resim açıklaması: Superficial spreading melanoma, Breslow 0.6 mm, polarised dermoscopy view
+270. resim açıklaması: Ulcerated melanoma
+271. resim açıklaması: Uveal/choroidal melanoma
+272. resim açıklaması: Uveal/choroidal melanoma
+273. resim açıklaması: Uveal/choroidal melanoma
+274. resim açıklaması: Uveal/choroidal melanoma
+275. resim açıklaması: Uveal/iris melanoma
+276. resim açıklaması: Histopathology of melanoma
+277. resim açıklaması: Amelanotic nodular melanoma
+278. resim açıklaması: Nodular melanoma
+279. resim açıklaması: An irregularly pigmented lesion on the heel - histology showed a thin acral lentiginous melanoma
+280. resim açıklaması: An advanced acral lentiginous melanoma in skin of colour on the heel
+281. resim açıklaması: Acral lentiginous malignant melanoma - irregular edge, with variable pigmentation, asymmetry and areas of regression on the heel
+282. resim açıklaması: Amelanotic melanoma dermoscopy
+283. resim açıklaması: Nodular melanoma
+284. resim açıklaması: Amelanotic nodular melanoma
+285. resim açıklaması: Macro image of amelanotic melanoma 1
+286. resim açıklaması: Nodular melanoma
+287. resim açıklaması: Amelanotic melanoma
+288. resim açıklaması: Melanoma of nail unit
+289. resim açıklaması: Melanoma
+290. resim açıklaması: Melanoma
+291. resim açıklaması: Melanoma
+292. resim açıklaması: Melanoma
+293. resim açıklaması: Angulated lines seen on dermoscopy of a melanoma
+294. resim açıklaması: CT scan of brain with melanoma metastasis
+295. resim açıklaması: Childhood melanoma FISH pathology
+296. resim açıklaması: Histology of melanoma in situ
+297. resim açıklaması: Hiastology of melanoma in situ
+298. resim açıklaması: Dermoscopy of nodular melanoma
+299. resim açıklaması: Desmoplastic melanoma 1, dermoscopy
+300. resim açıklaması: Melanoma
+301. resim açıklaması: Superficial spreading melanoma
+302. resim açıklaması: Superficial spreading melanoma
+303. resim açıklaması: Nodular melanoma
+304. resim açıklaması: Cherry angioma resembling nodular melanoma
+305. resim açıklaması: Cherry angioma resembling nodular melanoma
+306. resim açıklaması: Nodule within LM melanoma
+307. resim açıklaması: Lentiginous melanoma
+308. resim açıklaması: Lentiginous melanoma
+309. resim açıklaması: Lentiginous melanoma
+310. resim açıklaması: Annular granular pattern and rhomboids seen in dermoscopy of lentigo maligna melanoma
+311. resim açıklaması: Lentigo maligna melanoma
+312. resim açıklaması: Lentigo maligna melanoma
+313. resim açıklaması: Melanoma
+314. resim açıklaması: Acral lentiginous melanoma. Melanoma cells infiltrating up through epidermis. Note thick stratum cor
+315. resim açıklaması: High power view of melanoma cells. Note mitosis in the centre of the image.
+316. resim açıklaması: Melanoma in situ
+317. resim açıklaması: Melanoma in situ
+318. resim açıklaması: Melanoma
+319. resim açıklaması: Vulval melanoma
+320. resim açıklaması: Nodular melanoma
+321. resim açıklaması: Melanoma
+322. resim açıklaması: Neglected subungual melanoma
+323. resim açıklaması: Nodal metastatic melanoma
+324. resim açıklaması: Melanoma overlying
+325. resim açıklaması: Childhood melanoma
+326. resim açıklaması: Anal melanoma
+327. resim açıklaması: Amelanotic melanoma
+328. resim açıklaması: Melanoma
+329. resim açıklaması: Melanoma
+330. resim açıklaması: Dermoscopy of nodular melanoma
+331. resim açıklaması: Subungual melanoma
+332. resim açıklaması: Melanoma
+333. resim açıklaması: Melanoma
+334. resim açıklaması: Slowly enlarging, irregularly pigmented, and marginated lesion showing central hypopigmentation and regression - an acral lentiginous melanoma
+335. resim açıklaması: Small melanoma
+336. resim açıklaması: Two dark lesions on the mid-upper back - both in situ melanomas, (MIS-patient1)
+337. resim açıklaması: A dark macule on the central back - an in situ melanoma, (MIS-patient1)
+338. resim açıklaması: A banal pigmented macule on the back - histology showed an in situ melanoma, (MIS-patient1)
+339. resim açıklaması: Dermoscopy showing irregularity of the pigmentation, edge and peripheral pigment clods - histology showed an in situ melanoma, (MIS-patient1)
+340. resim açıklaması: Table 1. Five-year survival rates by melanoma depth and ethnicity
+341. resim açıklaması: Melanoma
+342. resim açıklaması: The Miiskin app features the Melanoma Risk Predictor
+343. resim açıklaması: Metastatic melanoma
+344. resim açıklaması: Metastatic melanoma
+345. resim açıklaması: Metastatic melanoma
+346. resim açıklaması: Dermatoscopy of metastatic melanoma
+347. resim açıklaması: Metastatic melanoma
+348. resim açıklaması: Multiple blue nodules of cutaneous metastatic malignant melanoma
+349. resim açıklaması: Metastatic melanoma
+350. resim açıklaması: Metastatic melanoma
+351. resim açıklaması: Metastatic melanoma
+352. resim açıklaması: Metastatic melanoma
+353. resim açıklaması: Metastatic melanoma
+354. resim açıklaması: Metastatic melanoma
+355. resim açıklaması: Dermoscopy of metastatic melanoma
+356. resim açıklaması: Metastatic melanoma
+357. resim açıklaması: Angulated lines are a clue to otherwise featureless melanoma
+358. resim açıklaması: Angulated lines seen on dermoscopy of a small melanoma
+359. resim açıklaması: Melanoma in situ dermoscopy
+360. resim açıklaması: Early melanoma
+361. resim açıklaması: Metastatic melanoma
+362. resim açıklaması: Metastatic melanoma
+363. resim açıklaması: Metastatic melanoma on the chest
+364. resim açıklaması: Melanoma of nail unit
+365. resim açıklaması: Dermoscopy of subungual melanoma
+366. resim açıklaması: Ulcerated nodular melanoma
+367. resim açıklaması: Nodular melanoma
+368. resim açıklaması: An ulcerated nodular lesion with polymorphous vessels and structureless area - a nodular malignant melanoma, (NM-patient1)
+369. resim açıklaması: Pathology of melanoma
+370. resim açıklaması: Acrolentiginous melanoma
+371. resim açıklaması: Pathology of melanoma
+372. resim açıklaması: Pathology of Superficial spreading melanoma
+373. resim açıklaması: Pathology of melanoma
+374. resim açıklaması: Superficial spreading melanoma
+375. resim açıklaması: PET-CT scan revealing metastatic melanoma in groin
+376. resim açıklaması: Macro image of superficial spreading melanoma 4
+377. resim açıklaması: Dermoscopic image of superficial spreading melanoma 4 (top half of lesion)
+378. resim açıklaması: Dermoscopic image of superficial spreading melanoma 4 (bottom half of lesion)
+379. resim açıklaması: Radial growth phase superficial spreading melanoma
+380. resim açıklaması: Superficial spreading melanoma dermoscopy
+381. resim açıklaması: Superficial spreading melanoma dermoscopy
+382. resim açıklaması: Superficial spreading melanoma dermoscopy
+383. resim açıklaması: Superficial spreading melanoma dermoscopy
+384. resim açıklaması: Angulated lines seen on dermoscopy of melanoma
+385. resim açıklaması: Macro image of superficial spreading melanoma 1
+386. resim açıklaması: Dermoscopic image of superficial spreading melanoma 1
+387. resim açıklaması: Superficial spreading melanoma
+388. resim açıklaması: Superficial spreading melanoma
+389. resim açıklaması: Melanoma
+390. resim açıklaması: Melanoma
+391. resim açıklaması: Dermoscopy of superficial spreading melanoma
+392. resim açıklaması: Superficial spreading melanoma
+393. resim açıklaması: Inguinal melanoma
+394. resim açıklaması: Shoulder
+395. resim açıklaması: Shoulder
+396. resim açıklaması: Right Lower Back
+397. resim açıklaması: Right Anterior Upper Arm
+398. resim açıklaması: Right Anterior Upper Arm
+399. resim açıklaması: Right Lower Back
+400. resim açıklaması: Right Lower Back
+401. resim açıklaması: Melanoma in situ
+402. resim açıklaması: Melanoma in situ
+403. resim açıklaması: Melanoma in situ
+404. resim açıklaması: Melanoma in situ
+405. resim açıklaması: Melanoma in situ
+406. resim açıklaması: Left Lower Back
+407. resim açıklaması: Left Lower Back
+408. resim açıklaması: Left Lateral Lower Thigh
+409. resim açıklaması: Left Lateral Lower Thigh
+410. resim açıklaması: Left Scapula
+411. resim açıklaması: Left Scapula
+412. resim açıklaması: Right Upper Leg Inner
+413. resim açıklaması: Right Upper Leg Inner
+414. resim açıklaması: Subungual melanoma of the toenail
+415. resim açıklaması: acral lentiginous melanoma 2 v3
+416. resim açıklaması: Acral lentiginous melanoma dermoscopy
+417. resim açıklaması: Slowly enlarging irregularly pigmented lesion on the heel present for 3 years
+418. resim açıklaması: Melanoma in situ
+419. resim açıklaması: Melanoma in situ
+420. resim açıklaması: Plantar Surface Mid Area Left Foot
+421. resim açıklaması: Plantar Surface Mid Area Left Foot
+422. resim açıklaması: Left Medial Foot
+423. resim açıklaması: Left Medial Foot
+424. resim açıklaması: Plantar Surface Mid Area Left Foot
+425. resim açıklaması: Plantar Surface Mid Area Left Foot
+426. resim açıklaması: Acral lentiginous melanoma dermoscopy
+427. resim açıklaması: Dorsum 3rd Toe Right Foot
+428. resim açıklaması: Acral lentiginous melanoma dermoscopy
+429. resim açıklaması: Acral lentiginous melanoma dermoscopy
+430. resim açıklaması: Acral lentiginous melanoma dermoscopy
+431. resim açıklaması: Acral lentiginous melanoma
+432. resim açıklaması: Acral lentiginous melanoma of the nail unit
+433. resim açıklaması: Acral lentiginous melanoma
+434. resim açıklaması: Melanoma in situ
+435. resim açıklaması: Acral lentignous melanoma
+436. resim açıklaması: Acral lentignous melanoma
+437. resim açıklaması: Acral lentignous melanoma
+438. resim açıklaması: Acral lentignous melanoma
+439. resim açıklaması: Amelanotic melanoma
+440. resim açıklaması: Amelanotic melanoma
+441. resim açıklaması: Amelanotic melanoma
+442. resim açıklaması: Amelanotic melanoma
+443. resim açıklaması: Amelanotic melanoma
+444. resim açıklaması: Amelanotic melanoma
+445. resim açıklaması: Amelanotic melanoma
+446. resim açıklaması: Amelanotic melanoma
+447. resim açıklaması: Amelanotic melanoma
+448. resim açıklaması: Amelanotic melanoma
+449. resim açıklaması: Amelanotic melanoma
+450. resim açıklaması: Amelanotic melanoma
+451. resim açıklaması: Amelanotic melanoma
+452. resim açıklaması: Amelanotic melanoma
+453. resim açıklaması: amelanotic melanoma 17 of 125
+454. resim açıklaması: Amelanotic melanoma
+455. resim açıklaması: Amelanotic melanoma on the back
+456. resim açıklaması: Amelanotic melanoma on the back
+457. resim açıklaması: Amelanotic melanoma macro
+458. resim açıklaması: Right Lateral Upper Arm
+459. resim açıklaması: Amelanotic melanoma on left
+460. resim açıklaması: Shoulder
+461. resim açıklaması: Shoulder
+462. resim açıklaması: Amelanotic melanoma of the nail unit
+463. resim açıklaması: Left Lateral Scalp
+464. resim açıklaması: Right Medial Upper Thigh
+465. resim açıklaması: amelanotic melanoma2 v2
+466. resim açıklaması: Right Medial Upper Thigh
+467. resim açıklaması: Right Posterior Forearm
+468. resim açıklaması: Right Medial Upper Thigh
+469. resim açıklaması: Right Posterior Forearm
+470. resim açıklaması: Right Medial Upper Thigh
+471. resim açıklaması: Amelanotic melanoma dermoscopy
+472. resim açıklaması: Right Medial Upper Thigh
+473. resim açıklaması: Right Medial Upper Thigh
+474. resim açıklaması: Left Side Forehead
+475. resim açıklaması: Left Lateral Scalp
+476. resim açıklaması: Melanoma in situ
+477. resim açıklaması: Melanoma in situ
+478. resim açıklaması: Figure 1
+479. resim açıklaması: Figure 2
+480. resim açıklaması: Figure 3
+481. resim açıklaması: Figure 4
+482. resim açıklaması: Figure 5
+483. resim açıklaması: Melanoma in situ
+484. resim açıklaması: Melanoma in situ
+485. resim açıklaması: Desmoplastic melanoma 2 2 2
+486. resim açıklaması: Melanoma in situ
+487. resim açıklaması: Melanoma in situ
+488. resim açıklaması: Melanoma in situ
+489. resim açıklaması: Melanoma in situ
+490. resim açıklaması: Melanoma in situ
+491. resim açıklaması: Melanoma in situ
+492. resim açıklaması: Melanoma in situ
+493. resim açıklaması: Melanoma in situ
+494. resim açıklaması: Melanoma in situ
+495. resim açıklaması: Melanoma in situ
+496. resim açıklaması: Melanoma in situ
+497. resim açıklaması: Melanoma in situ
+498. resim açıklaması: Melanoma in situ
+499. resim açıklaması: Melanoma in situ
+500. resim açıklaması: Left Ear Posterior
+501. resim açıklaması: A dark, irregularly pigmented impalpable macule on the cheek - histology showed a lentigo maligna with early areas of invasion, Breslow thickness 0.2 mm
+502. resim açıklaması: Left Front Upper Leg
+503. resim açıklaması: Lentigo maligna melanoma
+504. resim açıklaması: Lentigo maligna melanoma
+505. resim açıklaması: Lentigo maligna melanoma
+506. resim açıklaması: Lentigo maligna melanoma
+507. resim açıklaması: Image supplied by MoleMap NZ
+508. resim açıklaması: Melanoma in situ
+509. resim açıklaması: SSM with marked regression
+510. resim açıklaması: Nail melanoma
+511. resim açıklaması: LM with amelanotic areas
+512. resim açıklaması: Melanoma in situ
+513. resim açıklaması: Melanoma in situ
+514. resim açıklaması: melanoma 098
+515. resim açıklaması: Melanoma in situ
+516. resim açıklaması: Melanoma in situ
+517. resim açıklaması: Right Shoulder
+518. resim açıklaması: Mid Upper Back
+519. resim açıklaması: Left Lateral Lower Leg
+520. resim açıklaması: Left Side Anterior Scalp
+521. resim açıklaması: Right Anterior Thigh
+522. resim açıklaması: Neck
+523. resim açıklaması: Left Lateral Upper Arm
+524. resim açıklaması: Right Upper Back
+525. resim açıklaması: Melanoma in situ
+526. resim açıklaması: Melanoma in situ
+527. resim açıklaması: 2012
+528. resim açıklaması: 2013
+529. resim açıklaması: 2017
+530. resim açıklaması: Left Lateral Upper Arm
+531. resim açıklaması: Right Temple
+532. resim açıklaması: Right Lateral Upper Arm
+533. resim açıklaması: melanoma foot
+534. resim açıklaması: HMB45
+535. resim açıklaması: Melanoma in situ
+536. resim açıklaması: Melanoma in situ
+537. resim açıklaması: Melanoma in situ
+538. resim açıklaması: Melanoma in situ
+539. resim açıklaması: Melanoma in situ
+540. resim açıklaması: Melanoma in situ
+541. resim açıklaması: Melanoma in situ
+542. resim açıklaması: Melanoma in situ
+543. resim açıklaması: Melanoma in situ
+544. resim açıklaması: Melanoma in situ
+545. resim açıklaması: Melanoma in situ
+546. resim açıklaması: Subungual melanoma
+547. resim açıklaması: Subungual melanoma
+548. resim açıklaması: Melanoma
+549. resim açıklaması: Melanoma
+550. resim açıklaması: Right Calf
+551. resim açıklaması: Right Medial Lower Leg
+552. resim açıklaması: Right Medial Lower Leg
+553. resim açıklaması: Right Side Of Crown
+554. resim açıklaması: Right Medial Lower Leg
+555. resim açıklaması: Lymphatic
+556. resim açıklaması: Figure 1
+557. resim açıklaması: Figure 2
+558. resim açıklaması: Figure 3
+559. resim açıklaması: Figure 4
+560. resim açıklaması: Right Shoulder
+561. resim açıklaması: Right Shoulder
+562. resim açıklaması: Left Lateral Upper Arm
+563. resim açıklaması: Left Lateral Upper Arm
+564. resim açıklaması: Right Upper Leg Inner
+565. resim açıklaması: Right Upper Leg Inner
+566. resim açıklaması: Neck
+567. resim açıklaması: Neck
+568. resim açıklaması: Amelanotic nodular melanoma
+569. resim açıklaması: Melanoma in situ
+570. resim açıklaması: Melanoma in situ
+571. resim açıklaması: Melanoma in situ
+572. resim açıklaması: Melanoma in situ
+573. resim açıklaması: Mid Upper Back
+574. resim açıklaması: Right Forearm
+575. resim açıklaması: Superficial spreading melanoma in situ arising from an atypical naevus
+576. resim açıklaması: Right Medial Upper Thigh
+577. resim açıklaması: Left Lateral Scalp
+578. resim açıklaması: Invasive melanoma
+579. resim açıklaması: Nodular melanoma
+580. resim açıklaması: Nodular melanoma
+581. resim açıklaması: Nodular melanoma
+582. resim açıklaması: Left Scapula
+583. resim açıklaması: Left Scapula
+584. resim açıklaması: Dermoscopy of nodular melanoma
+585. resim açıklaması: Right Lower Leg
+586. resim açıklaması: Right Lower Leg Outer
+587. resim açıklaması: Right Shoulder
+588. resim açıklaması: Left Posterior Shoulder
+589. resim açıklaması: Left Scapula
+590. resim açıklaması: Right Temple
+591. resim açıklaması: Right Medial Upper Thigh
+592. resim açıklaması: Dermoscopy of nodular melanoma on the heel
+593. resim açıklaması: Right Lateral Upper Arm
+594. resim açıklaması: Nodular melanoma dermoscopy
+595. resim açıklaması: Dermoscopy of nodular melanoma
+596. resim açıklaması: Nodular melanoma dermoscopy
+597. resim açıklaması: Dermoscopy of nodular melanoma
+598. resim açıklaması: Dermoscopy of nodular melanoma
+599. resim açıklaması: Amelanotic melanoma dermoscopy
+600. resim açıklaması: Right Medial Upper Thigh
+601. resim açıklaması: Figure 27
+602. resim açıklaması: Spitzoid tumour of uncertain malignant potential (STUMP)
+603. resim açıklaması: Superficial spreading melanoma
+604. resim açıklaması: Superficial spreading melanoma
+605. resim açıklaması: Superficial spreading melanoma
+606. resim açıklaması: Superficial spreading melanoma
+607. resim açıklaması: Superficial spreading melanoma
+608. resim açıklaması: Superficial spreading melanoma
+609. resim açıklaması: Superficial spreading melanoma
+610. resim açıklaması: Superficial spreading melanoma
+611. resim açıklaması: Superficial spreading melanoma
+612. resim açıklaması: Superficial spreading melanoma
+613. resim açıklaması: Superficial spreading melanoma
+614. resim açıklaması: Superficial spreading melanoma
+615. resim açıklaması: Superficial spreading melanoma
+616. resim açıklaması: Superficial spreading melanoma
+617. resim açıklaması: Superficial spreading melanoma
+618. resim açıklaması: Superficial spreading melanoma
+619. resim açıklaması: Superficial spreading melanoma
+620. resim açıklaması: Superficial spreading melanoma
+621. resim açıklaması: Subungual melanoma
+622. resim açıklaması: Subungual melanoma
+623. resim açıklaması: Subungual melanoma
+624. resim açıklaması: Right Scapula
+625. resim açıklaması: Left Scapula
+626. resim açıklaması: Hypomelanotic superficial spreading melanoma, nonpolarised dermoscopy view
+627. resim açıklaması: Hypomelanotic superficial spreading melanoma, polarised dermoscopy view
+628. resim açıklaması: ungual melanoma
+629. resim açıklaması: Figure 15
+630. resim açıklaması: Dermoscopy: black blotch in melanoma
+631. resim açıklaması: Dermoscopy: melanoma with streaks
+632. resim açıklaması: Dermoscopy: melanoma with blue whitish veil
+633. resim açıklaması: Dermoscopy: melanoma with regression structures
+634. resim açıklaması: Dermoscopy: amelanotic melanoma with polymorphous vessels
+635. resim açıklaması: Acral lentiginous melanoma 0.95 mm
+636. resim açıklaması: Lentigo maligna melanoma
+637. resim açıklaması: An irregular grey pigmented lesion on the toe that has become both hyperkeratotic and ulcerated on the toe tip
+638. resim açıklaması: Acral lentiginous melanoma
+639. resim açıklaması: 
+640. resim açıklaması: Figure 28
+641. resim açıklaması: Parallel ridge pattern, asymmetrical structure and diffuse pigmentation
+642. resim açıklaması: Colours = 3
+643. resim açıklaması: Irregular blotches
+644. resim açıklaması: Multicomponent pattern
+645. resim açıklaması: Multicomponent pattern
+646. resim açıklaması: Multicomponent pattern
+647. resim açıklaması: Multiple blue/grey dots
+648. resim açıklaması: Scar-like depigmentation
+649. resim açıklaması: Irregular streaks
+650. resim açıklaması: Plantar Surface Superior Region Left Foot
+651. resim açıklaması: Plantar Surface Superior Region Left Foot
+652. resim açıklaması: Asymmetrical structure and colour
+653. resim açıklaması: Acral lentiginous melanoma
+654. resim açıklaması: Acral lentignous melanoma
+655. resim açıklaması: Partially amelanotic SSM
+656. resim açıklaması: White lines, polymorphous vessels
+657. resim açıklaması: Pigment remnants
+658. resim açıklaması: Milky pink areas
+659. resim açıklaması: White structureless area, linear irregular vessels
+660. resim açıklaması: Asymmetrical blotches, dots
+661. resim açıklaması: Melanoma has asymmetry
+662. resim açıklaması: Melanoma has asymmetry
+663. resim açıklaması: Irregular structure
+664. resim açıklaması: Blue-white veil
+665. resim açıklaması: Irregular structure
+666. resim açıklaması: Melanoma has notched border
+667. resim açıklaması: Melanoma has notched border
+668. resim açıklaması: Figure 56
+669. resim açıklaması: Melanoma has several colours
+670. resim açıklaması: Five to six colours
+671. resim açıklaması: Melanoma has several colours
+672. resim açıklaması: Lentigo maligna melanoma
+673. resim açıklaması: Lentigo maligna melanoma
+674. resim açıklaması: Pseudopods (*)
+675. resim açıklaması: Mixed pattern, mainly lines
+676. resim açıklaması: Mixed pattern, mainly structureless
+677. resim açıklaması: Image supplied by MoleMap NZ
+678. resim açıklaması: Desmoplastic melanoma
+679. resim açıklaması: Melanoma may be large
+680. resim açıklaması: Melanoma may be large
+681. resim açıklaması: Early melanoma
+682. resim açıklaması: Early melanoma
+683. resim açıklaması: Early melanoma
+684. resim açıklaması: Early melanoma
+685. resim açıklaması: C=4, A=1, S=1, H=4. Total CASH score=10
+686. resim açıklaması: Chaos + peripheral black dots, blue/grey structures, eccentric structureless area, white lines, poly
+687. resim açıklaması: Chaos + eccentric structureless area, peripheral black dots, polygons
+688. resim açıklaması: Chaos + thickened reticular network, eccentric structureless area
+689. resim açıklaması: I=1, K=1 (atypical network, eccentric structureless zone)
+690. resim açıklaması: I=1, K=1 (segmental streaks, irregular black dots, eccentric structureless zone)
+691. resim açıklaması: I=1, K=1 (atypical network, irregular black dots, eccentric structureless zone)
+692. resim açıklaması: I=1, K=1 (atypical network, irregular black dots/clods)
+693. resim açıklaması: I=1, K=1 (atypical network, segmental streaks, eccentric structureless zone)
+694. resim açıklaması: I=1, K=1 (atypical network, eccentric structureless zone)
+695. resim açıklaması: C=4, A=2, S=2, H=5. Total CASH score=13
+696. resim açıklaması: C=4, A=1, S=1, H=3. Total CASH score=9
+697. resim açıklaması: C=3, A=1, S=2, H=3. Total CASH score=9
+698. resim açıklaması: C=4, A=2, S=2, H=3. Total CASH score=11
+699. resim açıklaması: C=4, A=2, S=2, H=4. Total CASH score=12
+700. resim açıklaması: Chaos + eccentric structureless area, blue/grey structures, white lines, peripheral black dots
+701. resim açıklaması: Chaos + eccentric structureless area, polygons
+702. resim açıklaması: Chaos + eccentric structureless area, polymorphous vessels
+703. resim açıklaması: Sentinel node biopsy persistent tattoo
+704. resim açıklaması: October
+705. resim açıklaması: January
+706. resim açıklaması: Irregular shape/structure
+707. resim açıklaması: Clinical ABCD rule of melanoma
+708. resim açıklaması: Figure 10
+709. resim açıklaması: Figure 5
+710. resim açıklaması: Figure 6
+711. resim açıklaması: Figure 7
+712. resim açıklaması: Figure 8
+713. resim açıklaması: Figure 3
+714. resim açıklaması: Figure 16
+715. resim açıklaması: Figure 17
+716. resim açıklaması: Figure 18
+717. resim açıklaması: Figure 4
+718. resim açıklaması: Figure 20
+719. resim açıklaması: Figure 23
+720. resim açıklaması: Figure 24
+721. resim açıklaması: Figure 25
+722. resim açıklaması: Figure 5
+723. resim açıklaması: Figure 28
+724. resim açıklaması: Figure 29
+725. resim açıklaması: Figure 30
+726. resim açıklaması: Figure 31
+727. resim açıklaması: Figure 1
+728. resim açıklaması: Figure 7
+729. resim açıklaması: Figure 11
+730. resim açıklaması: Figure 8
+731. resim açıklaması: Melanoma in situ dermoscopy
+732. resim açıklaması: Lentigo maligna melanoma
+733. resim açıklaması: SOX10
+734. resim açıklaması: Irregular shape/structure
+735. resim açıklaması: Irregular shape/structure
+736. resim açıklaması: Melanoma
+737. resim açıklaması: Irregular shape/structure
+738. resim açıklaması: Lentigo maligna melanoma
+739. resim açıklaması: Lentigo maligna melanoma
+740. resim açıklaması: Lentigo maligna melanoma
+741. resim açıklaması: Lentigo maligna melanoma
+742. resim açıklaması: Lentigo maligna melanoma
+743. resim açıklaması: Lentigo maligna melanoma
+744. resim açıklaması: Irregular shape/structure
+745. resim açıklaması: Due to tumour
+746. resim açıklaması: Superficial spreading melanoma
+747. resim açıklaması: Superficial spreading melanoma
+748. resim açıklaması: Malignant blue naevus
+749. resim açıklaması: Blue-white veil
+750. resim açıklaması: Irregular structure
+751. resim açıklaması: Irregular structure
+752. resim açıklaması: Lentigo maligna. Proliferation of abnormal melanocytes along the basal layer of a thinned, sun-damag
+753. resim açıklaması: SSM in situ
+754. resim açıklaması: Irregular shape/structure
+755. resim açıklaması: Irregular shape/structure
+756. resim açıklaması: Melanoma in situ
+757. resim açıklaması: Melanoma in situ
+758. resim açıklaması: Irregular shape/structure
+759. resim açıklaması: Irregular structure
+760. resim açıklaması: Irregular structure
+761. resim açıklaması: Irregular structure
+762. resim açıklaması: Longstanding LM
+763. resim açıklaması: Amelanotic metastasis
+764. resim açıklaması: Ulcerated dermal metastasis
+765. resim açıklaması: SSM with regression
+766. resim açıklaması: Typical SMM
+767. resim açıklaması: Large SSM mistaken for a bruise
+768. resim açıklaması: SSM in situ
+769. resim açıklaması: Parallel ridge pattern, asymmetrical structure and diffuse pigmentation
+770. resim açıklaması: Asymmetrical structure and colour with multicomponent pattern
+771. resim açıklaması: Asymmetrical structure and colour with multicomponent pattern
+772. resim açıklaması: Lentigo maligna melanoma
+773. resim açıklaması: Parallel ridge pattern with diffuse pigmentation
+774. resim açıklaması: Lentigo maligna melanoma
+775. resim açıklaması: Figure 18a
+776. resim açıklaması: Figure 18b
+777. resim açıklaması: Figure 19a
+778. resim açıklaması: Figure 19b
+779. resim açıklaması: melanoma chinese
+780. resim açıklaması: S100
+781. resim açıklaması: Dermoscopy showing irregular pigment distribution, margin and peripheral structures, (MIS-patient1)
+782. resim açıklaması: melanoma maori
+783. resim açıklaması: Melan A
+784. resim açıklaması: melanoma naevi
+785. resim açıklaması: Histology of melanoma
+786. resim açıklaması: Figure 19c
+787. resim açıklaması: melanoma sun damage
+788. resim açıklaması: Figure 2
+789. resim açıklaması: Figure 1
+790. resim açıklaması: Irregular shape/structure
+791. resim açıklaması: Figure 32
+792. resim açıklaması: Figure 30
+793. resim açıklaması: Figure 31
+794. resim açıklaması: Metastasis within scar
+795. resim açıklaması: Cutaneous
+796. resim açıklaması: Melanoma in situ dermoscopy
+797. resim açıklaması: Melanoma in situ dermoscopy
+798. resim açıklaması: Melanoma in situ dermoscopy
+799. resim açıklaması: Melanoma in situ dermoscopy
+800. resim açıklaması: Melanoma in situ dermoscopy
+801. resim açıklaması: Melanoma in situ dermoscopy
+802. resim açıklaması: Perpendicular white lines are visible under polarised light dermoscopy of a melanoma in situ
+803. resim açıklaması: Melanoma in situ dermoscopy
+804. resim açıklaması: Melanoma in situ dermoscopy
+805. resim açıklaması: Melanoma in situ dermoscopy
+806. resim açıklaması: Melanoma in situ dermoscopy
+807. resim açıklaması: Melanoma in situ dermoscopy
+808. resim açıklaması: Melanoma in situ dermoscopy
+809. resim açıklaması: Melanoma in situ dermoscopy
+810. resim açıklaması: Melanoma in situ dermoscopy
+811. resim açıklaması: Melanoma in situ dermoscopy
+812. resim açıklaması: Melanoma in situ dermoscopy
+813. resim açıklaması: Melanoma in situ dermoscopy
+814. resim açıklaması: Melanoma in situ dermoscopy
+815. resim açıklaması: Melanoma in situ dermoscopy
+816. resim açıklaması: Melanoma in situ dermoscopy
+817. resim açıklaması: Irregular shape/structure
+818. resim açıklaması: Irregular shape/structure
+819. resim açıklaması: Irregular shape/structure
+820. resim açıklaması: Irregular shape/structure
+821. resim açıklaması: Figure 12
+822. resim açıklaması: Figure 13
+823. resim açıklaması: Figure 14
+824. resim açıklaması: Figure 3
+825. resim açıklaması: Figure 4
+826. resim açıklaması: Irregular structure
+827. resim açıklaması: Irregular shape/structure
+828. resim açıklaması: Radial streaming
+829. resim açıklaması: Irregular structure
+830. resim açıklaması: nail melanoma s
+831. resim açıklaması: nail melanoma s
+832. resim açıklaması: Subungual melanoma
+833. resim açıklaması: Irregular shape/structure
+834. resim açıklaması: Irregular structure
+835. resim açıklaması: Irregular structure
+836. resim açıklaması: Irregular shape/structure
+837. resim açıklaması: Regular shape
+838. resim açıklaması: Nodular melanoma
+839. resim açıklaması: Nodular melanoma
+840. resim açıklaması: Irregular shape/structure
+841. resim açıklaması: High power view of pagetoid spread
+842. resim açıklaması: High power view
+843. resim açıklaması: primary melanoma
+844. resim açıklaması: Regression structures
+845. resim açıklaması: Irregular shape/structure
+846. resim açıklaması: Irregular structure
+847. resim açıklaması: Irregular shape/structure
+848. resim açıklaması: Secondary melanoma in the lymph glands of the groin
+849. resim açıklaması: secondary skin melanoma
+850. resim açıklaması: Lentigo maligna melanoma
+851. resim açıklaması: Superficial spreading melanoma
+852. resim açıklaması: Superficial spreading melanoma
+853. resim açıklaması: Superficial spreading melanoma
+854. resim açıklaması: Superficial spreading melanoma
+855. resim açıklaması: Superficial spreading melanoma
+856. resim açıklaması: Superficial spreading melanoma
+857. resim açıklaması: Superficial spreading melanoma
+858. resim açıklaması: Superficial spreading melanoma
+859. resim açıklaması: Superficial spreading melanoma
+860. resim açıklaması: Superficial spreading amelanotic melanoma
+861. resim açıklaması: Figure 1
+862. resim açıklaması: Figure 2
+863. resim açıklaması: Figure 3
+864. resim açıklaması: Superficial spreading melanoma
+865. resim açıklaması: Superficial spreading melanoma
+866. resim açıklaması: Superficial spreading melanoma
+867. resim açıklaması: Superficial spreading melanoma
+868. resim açıklaması: Superficial spreading melanoma
+869. resim açıklaması: Superficial spreading melanoma
+870. resim açıklaması: Superficial spreading melanoma
+871. resim açıklaması: Superficial spreading melanoma
+872. resim açıklaması: Superficial spreading melanoma
+873. resim açıklaması: Trolley prepared for surgery
+874. resim açıklaması: Putting in the local anaesthetic
+875. resim açıklaması: Dressing applied to wound
+876. resim açıklaması: Specimen pot
+877. resim açıklaması: Irregular margin and pigmentation of an acral lentiginous melanoma
+878. resim açıklaması: A malignant melanoma has invaded into a pre-existing seborrhoeic wart - a collision lesion, (CSL-patient1)
+879. resim açıklaması: A malignant melanoma has invaded into a pre-existing seborrhoeic wart - a collision lesion, (CSL-patient1)
+880. resim açıklaması: A malignant melanoma has invaded into a pre-existing seborrhoeic wart - a collision lesion, (CSL-patient1)
+881. resim açıklaması: An in situ melanoma excision scar, (CSL-patient1)
+882. resim açıklaması: A healed skin graft after melanoma excision
+883. resim açıklaması: A healed skin graft after excision of melanoma on the ankle
+884. resim açıklaması: A skin graft after melanoma excision on the knee
+885. resim açıklaması: Irregularly marginated and pigmented lesion on the vulva and crural fold - a superficial spreading malignant melanoma
+886. resim açıklaması: Malignant melanoma on the vulva, (VC-patient2)
+887. resim açıklaması: Dermoscopy of a vulval mucosal melanoma, (VC-patient2)
+888. resim açıklaması: Dermoscopy of a vulval malignant melanoma, (VC-patient2)
+889. resim açıklaması: Superficial spreading vulval malignant melanoma, (VC-patient5)
+890. resim açıklaması: Dermoscopyy of a thick superficial spreading malignant melanoma (Breslow thickness 7 mm), (VC-patient5)
+891. resim açıklaması: Melanoma in situ
+892. resim açıklaması: Melanoma in situ
+893. resim açıklaması: Melanoma in situ
+894. resim açıklaması: Melanoma
+895. resim açıklaması: Invasive melanoma
+896. resim açıklaması: Melanoma
+897. resim açıklaması: Melanoma
+898. resim açıklaması: Melanoma
+899. resim açıklaması: Melanoma pathology: Normal FISH
+900. resim açıklaması: Melanoma pathology: Abnormal FISH
+901. resim açıklaması: Melanoma
+902. resim açıklaması: Superficial spreading malignant melanoma - an enlarging pigmented lesion with variable pigmentation, irregular edge, and asymmetry
+903. resim açıklaması: Superficial spreading malignant melanoma - irregular border, variable pigmentation, and areas of clinical regression
+904. resim açıklaması: Melanoma
+905. resim açıklaması: Melanoma
+906. resim açıklaması: Metastatic melanoma near excision site
+907. resim açıklaması: Distant metastatic melanoma
+908. resim açıklaması: Metastatic melanoma
+909. resim açıklaması: Angulated lines seen on dermoscopy of a small melanoma
+910. resim açıklaması: Criteria for melanoma
+911. resim açıklaması: Melanoma
+912. resim açıklaması: Spitzoid melanoma
+913. resim açıklaması: Superficial spreading melanoma
+914. resim açıklaması: Basal cell carcinoma affecting the face
+915. resim açıklaması: Basal cell carcinoma affecting the face
+916. resim açıklaması: Basal cell carcinoma affecting the face
+917. resim açıklaması: Basal cell carcinoma affecting the face
+918. resim açıklaması: Moles
+919. resim açıklaması: Moles
+920. resim açıklaması: Lentigo maligna
+921. resim açıklaması: Moles
+922. resim açıklaması: Moles
+923. resim açıklaması: Squamous cell carcinoma of limbs
+924. resim açıklaması: Lentigo maligna
+925. resim açıklaması: Lentigo maligna
+926. resim açıklaması: Case 14
+927. resim açıklaması: alm1
+928. resim açıklaması: DSCN5310 1
+929. resim açıklaması: Anagen effluvium due to cranial irradiation
+930. resim açıklaması: Anagen effluvium due to cranial irradiation
+931. resim açıklaması: Anagen effluvium due to cranial irradiation
+932. resim açıklaması: dysplastic
+933. resim açıklaması: Alopecia due to vemurafenib
+934. resim açıklaması: Atypical fibroxanthoma
+935. resim açıklaması: Follicular keratosis
+936. resim açıklaması: Ink spot lentigo dermoscopy
+937. resim açıklaması: Tumour stage KS
+938. resim açıklaması: lentiginous
+939. resim açıklaması: An irregularly pigmented and marginated macular lesion due to lentigo maligna on the temple, (LM-patient1)
+940. resim açıklaması: A lentigo maligna on the temple - dermoscopy shows pseudonetwork and grey/brown dots, (LM-patient1)
+941. resim açıklaması: A lentigo maligna on the temple - dermoscopy shows irregular pigment and atypical pseudonetwork, (LM-patient1)
+942. resim açıklaması: Lentigo maligna
+943. resim açıklaması: Right Post Auricular Region
+944. resim açıklaması: Left Side Forehead
+945. resim açıklaması: Left Side Forehead
+946. resim açıklaması: Shoulder
+947. resim açıklaması: Right Lateral Shoulder
+948. resim açıklaması: Mid Upper Back
+949. resim açıklaması: Cheek
+950. resim açıklaması: Left Side Forehead
+951. resim açıklaması: Right Post Auricular Region
+952. resim açıklaması: Isolated limb perfusion
+953. resim açıklaması: Lentigo maligna
+954. resim açıklaması: Lentigo maligna
+955. resim açıklaması: Lentigo maligna
+956. resim açıklaması: Lentigo maligna
+957. resim açıklaması: Lentigo maligna
+958. resim açıklaması: lmm2
+959. resim açıklaması: lmm4
+960. resim açıklaması: lmm5
+961. resim açıklaması: lmm6
+962. resim açıklaması: Right Lower Back
+963. resim açıklaması: metastasis v2
+964. resim açıklaması: Melanomia in situ 4 dermoscopy
+965. resim açıklaması: Concentric circles (red arrows) seen in dermoscopy of lentigo maligna
+966. resim açıklaması: Lentigo maligna dermoscopy
+967. resim açıklaması: Lentigo maligna dermoscopy
+968. resim açıklaması: Grey circles in lentigo maligna
+969. resim açıklaması: Clark naevus
+970. resim açıklaması: Intraepidermal carcinoma
+971. resim açıklaması: Right Medial Upper Thigh
+972. resim açıklaması: Squamous cell carcinoma
+973. resim açıklaması: Seborrhoeic keratosis
+974. resim açıklaması: Right Calf
+975. resim açıklaması: After excision
